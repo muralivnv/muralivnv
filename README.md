@@ -1,7 +1,9 @@
 ### Hi there 👋
+<!--
 <a href="https://github.com/sshyran/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=muralivnv&show_icons=true&theme=nord" />
 </a>
+-->
 <!--
 **muralivnv/muralivnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
